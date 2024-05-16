@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.3bb506cc.css",
-    "main.js": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.4494d57a.js",
+    "main.js": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.d58940c1.js",
     "static/media/Meals.jpg": "/vipulkumarcu/React_Food_Order_App.git/static/media/Meals.2971f633fc1382581cbf.jpg",
     "index.html": "/vipulkumarcu/React_Food_Order_App.git/index.html",
     "main.3bb506cc.css.map": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.3bb506cc.css.map",
-    "main.4494d57a.js.map": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.4494d57a.js.map"
+    "main.d58940c1.js.map": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.d58940c1.js.map"
   },
   "entrypoints": [
     "static/css/main.3bb506cc.css",
-    "static/js/main.4494d57a.js"
+    "static/js/main.d58940c1.js"
   ]
 }
