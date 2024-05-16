@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.2173ecdb.css",
-    "main.js": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.621c0167.js",
+    "main.css": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.b4014a87.css",
+    "main.js": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.121373c6.js",
     "static/media/Meals.jpg": "/vipulkumarcu/React_Food_Order_App.git/static/media/Meals.2971f633fc1382581cbf.jpg",
     "index.html": "/vipulkumarcu/React_Food_Order_App.git/index.html",
-    "main.2173ecdb.css.map": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.2173ecdb.css.map",
-    "main.621c0167.js.map": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.621c0167.js.map"
+    "main.b4014a87.css.map": "/vipulkumarcu/React_Food_Order_App.git/static/css/main.b4014a87.css.map",
+    "main.121373c6.js.map": "/vipulkumarcu/React_Food_Order_App.git/static/js/main.121373c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.2173ecdb.css",
-    "static/js/main.621c0167.js"
+    "static/css/main.b4014a87.css",
+    "static/js/main.121373c6.js"
   ]
 }
